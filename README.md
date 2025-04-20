@@ -41,4 +41,4 @@
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="42" height="42" /></a></p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=Gachelteon&show_icons=true&locale=en" alt="Gachelteon" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Gachelteon&" alt="Gachelteon" /></p>
-<p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Gachelteon" alt="Gachelteon" /></a></p>
+<p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Gachelteon&title=Commits,Followers,Repositories,Experience" alt="Gachelteon" /></a></p>
