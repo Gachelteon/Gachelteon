@@ -124,8 +124,15 @@
   <img alt="github-snake" src="https://raw.githubusercontent.com/Gachelteon/Gachelteon/output/github-snake.svg" />
 </picture>
 
-###
+# 📊 GitHub Stats:
 
-<h3 align="left">🔥   My Stats :</h3>
+![](https://nirzak-streak-stats.vercel.app/?user=Gachelteon&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Gachelteon&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-###
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Gachelteon&limit=5&theme=catppuccin_mocha&combine_all_yearly_contributions=true)
+
+---
+[![](https://visitcount.itsvg.in/api?id=Gachelteon&icon=6&color=12)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
