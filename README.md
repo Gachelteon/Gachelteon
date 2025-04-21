@@ -12,7 +12,7 @@
 
 ###
 
-<h1 align="center">Turning coffee ☕ into code, and ideas into innovation 💡<br>👋</h1>
+<h1 align="center">Turning dark chocolate 🍫 into code, and ideas into innovation 💡<br>👋</h1>
 
 ###
 
