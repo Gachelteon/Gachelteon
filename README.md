@@ -20,7 +20,7 @@
 
 ###
 
-<p align="left">👋 Hi! I'm Eon Seth Maranguit from the Philippines 🇵🇭<br><br>💻 Currently working as an OJT Developer at AZE Tech and an Installer at International Pharmaceutical Inc.<br><br>🎯 Passionate about building real-world tech solutions and leveling up in the dev world<br><br>🧠 Currently diving into 3D development, AI fine-tuning, and SceneView AR<br><br>🚀 Always exploring, always learning — let’s create something awesome!</p>
+<p align="left"><br>🎯 Passionate about building real-world tech solutions and leveling up in the dev world<br><br>🧠 Currently diving into 3D development, AI fine-tuning, and SceneView AR<br><br>🚀 Always exploring, always learning — let’s create something awesome!</p>
 
 ###
 
